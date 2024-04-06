@@ -24,9 +24,9 @@ Microsoft PowerBi
 
 ### Descriptive and Exploratory Data Analysis:
 Combination of descriptive and exploratory analyses to understand past trends and identify potential causal relationships between policy changes and health insurance outcomes. As well as to answer key questions such as:
-How has the Affordable Care Act changed the rate of citizens with health insurance coverage?
-Which states observed the greatest decline in their uninsured rate? 
-Did those states expand Medicaid program coverage?
+<br>❓How has the Affordable Care Act changed the rate of citizens with health insurance coverage?
+<br>❓Which states observed the greatest decline in their uninsured rate? 
+<br>❓Did those states expand Medicaid program coverage?
 
 ### Key Findings:
 
