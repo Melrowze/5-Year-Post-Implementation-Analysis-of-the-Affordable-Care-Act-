@@ -61,7 +61,7 @@ The ACA's impact on healthcare coverage and access has been profound, with milli
 
 ![aca_dashnoard2](https://github.com/Melrowze/5-Year-Post-Implementation-Analysis-of-the-Affordable-Care-Act-/assets/44920093/651965ad-7702-4530-a00e-16b999a13823)
 
-Thank you for taking the time to explore this project. Your interest and attention are truly appreciated. Should you have any insights or recommendations, I am eager to engage and exchange ideas. Don't hesitate to reach out to me via meldeezyne@gmail or follow me on with me [Medium](https://medium.com/@meldeezyne). I'm excited to have a conversation and hear your perspectives.
+Thank you for taking the time to explore this project. Your interest and attention are truly appreciated. Should you have any insights or recommendations, I am eager to engage and exchange ideas. Don't hesitate to reach out to me via meldeezyne@gmail or follow me on [Medium](https://medium.com/@meldeezyne). I'm excited to have a conversation and hear your perspectives.
 
 
 
