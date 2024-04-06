@@ -30,27 +30,27 @@ Did those states expand Medicaid program coverage?
 
 ### Key Findings:
 
-#### 1. Increase in Health Coverage:
-🌟 Over the five years following the implementation of the ACA, approximately 20 million more individuals gained health coverage nationwide.
-🌟 By 2016, Medicare covered 56 million people, while Medicaid covered 76 million.
+#### 🌟Increase in Health Coverage:
+- Over the five years following the implementation of the ACA, approximately 20 million more individuals gained health coverage nationwide.
+- By 2016, Medicare covered 56 million people, while Medicaid covered 76 million.
 
-#### 2. Decline in Uninsured Rates:
-🌟 Nevada experienced the greatest decline in uninsured individuals from 2010 to 2015, with a decrease of 10.30%. Other states with significant reductions included Oregon, California, and Kentucky.
+#### 🌟 Decline in Uninsured Rates:
+- Nevada experienced the greatest decline in uninsured individuals from 2010 to 2015, with a decrease of 10.30%. Other states with significant reductions included Oregon, California, and Kentucky.
 
 ![biggest_decline](https://github.com/Melrowze/5-Year-Post-Implementation-Analysis-of-the-Affordable-Care-Act-/assets/44920093/fdc7dad9-bdec-4816-8cf3-7b8bb9a54102)
 
 
-#### 3. Impact of Medicaid Expansion:
-🌟 Thirty-two states expanded their Medicaid programs to cover individuals with household incomes below a certain level.
-🌟 Between 2013 and 2016, an additional 17 million people enrolled in Medicaid.
-🌟 The data suggests that Medicaid expansion played a significant role in reducing uninsured rates, with 90% of the top ten states witnessing the largest declines in uninsured rates having expanded Medicaid. Notably, Florida was the only exception among these states.
+#### 🌟 Impact of Medicaid Expansion:
+- Thirty-two states expanded their Medicaid programs to cover individuals with household incomes below a certain level.
+- Between 2013 and 2016, an additional 17 million people enrolled in Medicaid.
+- The data suggests that Medicaid expansion played a significant role in reducing uninsured rates, with 90% of the top ten states witnessing the largest declines in uninsured rates having expanded Medicaid. Notably, Florida was the only exception among these states.
 
 ![medicaid_expansion](https://github.com/Melrowze/5-Year-Post-Implementation-Analysis-of-the-Affordable-Care-Act-/assets/44920093/f2c39751-68e8-4f7d-82cc-c4b76a4a17ae)
 
 
-#### 4. Employer Health Insurance Coverage:
-🌟 California led in employer-provided health insurance coverage, with approximately 20 million individuals covered.
-🌟 Texas, New York, and Florida followed with 14 million, 11 million, and 9 million individuals covered, respectively.
+#### 🌟 Employer Health Insurance Coverage:
+- California led in employer-provided health insurance coverage, with approximately 20 million individuals covered.
+- Texas, New York, and Florida followed with 14 million, 11 million, and 9 million individuals covered, respectively.
 
 ![highest_employer_coverage](https://github.com/Melrowze/5-Year-Post-Implementation-Analysis-of-the-Affordable-Care-Act-/assets/44920093/b0d9547c-3bbe-4a95-b6e5-11f8a57daf37)
 
@@ -61,6 +61,7 @@ The ACA's impact on healthcare coverage and access has been profound, with milli
 
 ![aca_dashnoard2](https://github.com/Melrowze/5-Year-Post-Implementation-Analysis-of-the-Affordable-Care-Act-/assets/44920093/651965ad-7702-4530-a00e-16b999a13823)
 
+Thank you for taking the time to explore this project. Your interest and attention are truly appreciated. Should you have any insights or recommendations, I am eager to engage and exchange ideas. Don't hesitate to reach out to me via meldeezyne@gmail or follow me on with me [Medium](https://medium.com/@meldeezyne). I'm excited to have a conversation and hear your perspectives.
 
 
 
