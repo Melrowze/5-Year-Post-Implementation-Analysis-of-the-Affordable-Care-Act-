@@ -16,7 +16,6 @@ The health insurance coverage data was compiled from the US Department of Health
 ### Tool:
 ---
 Microsoft PowerBi
----
 
 ### Data Cleaning and Preparation:
 ---
