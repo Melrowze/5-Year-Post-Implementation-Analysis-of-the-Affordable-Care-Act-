@@ -19,10 +19,10 @@ Microsoft PowerBi
 
 ### Data Cleaning and Preparation:
 ---
-1. **Remove Duplicates:** Ensured each record is unique and accurate by eliminating duplicate entries from the dataset. 
+1. **Removed Duplicates:** Ensured each record is unique and accurate by eliminating duplicate entries from the dataset. 
 2. **Removed Bottom Row:** Excluded the row containing the total for the entire country as it does not represent individual states.
 3. **Changed Data Types:** Adjusted data types to align with their respective values, converting decimals to whole numbers where appropriate for consistency and clarity.
-4. **Replace Null Values:** Replaced missing values in text fields with "NA" and numerical fields with "0" to standardize the dataset and facilitate analysis.
+4. **Replaced Null Values:** Replaced missing values in text fields with "NA" and numerical fields with "0" to standardize the dataset and facilitate analysis.
 5. **Created New Column:** Introduced a new column to replace the Medicaid Enrollment Change column. This was done to categorize and sort the instances where there were blank cells identified in the Medicaid Enrollment column for the year 2013. This column enables a more complete and accurate analysis of the data points.
 
 ![applied_steps](https://github.com/Melrowze/5-Year-Post-Implementation-Analysis-of-the-Affordable-Care-Act-/assets/44920093/e3ef21e5-c1fb-4ec2-be4a-c48899e9b229)
